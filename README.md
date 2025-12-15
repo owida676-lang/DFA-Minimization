@@ -63,8 +63,5 @@ dfa-minimization/
 ├── dfa_minimization.py
 └── README.md
 👤 Authors
-. Owida
-. Seif
 Owida
-
 Seif
